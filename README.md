@@ -54,7 +54,7 @@ Unlike static spreadsheets, this dashboard is built on a structured data pipelin
 
 ## Key Insights & Recommendations
 
-**Logistics Focus:** With high customer counts in Texas & California, these states should be prioritized for inventory warehousing to reduce shipping times.
+* **Logistics Focus:** With high customer counts in Texas & California, these states should be prioritized for inventory warehousing to reduce shipping times.
 * **Market Saturation:** The plateau in 2022–2023 suggests future growth may require new product categories.
 * **Gender Neutrality:** With a 52/48 male-to-female split, marketing campaigns should remain broad and inclusive.
 
